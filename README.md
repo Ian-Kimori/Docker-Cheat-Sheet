@@ -18,7 +18,6 @@
 * [Docker-Compose](#docker-compose)
 * [Security](#security)
 * [Tips](#tips)
-* [Contributing](#contributing)
 
 ## Why Docker
 
